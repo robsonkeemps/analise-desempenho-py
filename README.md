@@ -1,11 +1,12 @@
 # Analise-desempenho-py
-O trabalho faz parte do PPG em Computação Aplicada da Unisinos. Aqui você encontrara uma abordagens de resolução usando algotimo de Levenshtein frequentemente utilizado para calcular a distância entre duas strings, aplicado a um sistema especialista nomeado de Turistmos-Python.
+O trabalho faz parte do PPG em Computação Aplicada da Unisinos para disciplina e Analise de Desempenho. 
+Aqui você encontrara uma abordagens de resolução usando algotimo de Levenshtein frequentemente utilizado para calcular a distância entre duas strings.
 
 ## Indice
 - Cenario
 - Pré-requisitos
 - Instruções ao usuario
-- Análise e comparação de desempenho
+- Definição das métricas de desempenho
   - Carga para teste de algoritmos de solução
   - Performance de metricas
   - Análise de algoritmo
@@ -15,7 +16,7 @@ O trabalho faz parte do PPG em Computação Aplicada da Unisinos. Aqui você enc
 - Autores
 
 ## Cenario
-Com base numa string de dados informada, desejamos compara-la com informações armazenadas em uma base e trazer a informaões que melhor representa.
+Com base numa string de dados informada numa aplicação Python, desejamos compara-la com informações armazenadas em uma base e trazer a informaões que melhor representa.
   - Opção 1: Desenvovler ou usar algoritmo de Levenshtein na linguagem Puthon que frequentemente é utilizado para calcular a distância entre duas strings.
   - Opção 2: Importar biblioteca FuzzyWuzzy, assim como o pacote Levenshtein, uma função de razão que calcula a razão de similaridade de distância de Levenshtein padrão entre duas sequências.
 
@@ -27,3 +28,8 @@ Com base numa string de dados informada, desejamos compara-la com informações 
    - Matplotlib
 
 ## Instruções ao usuario
+É possivel implementar a formula de Levensntein o zero usando uma função Python, para usar basta chamar a função passando os parametros, exemplo:[Levensnteins.py]
+
+  
+  ## Definição das métricas de desempenho
+  
