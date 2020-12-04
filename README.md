@@ -43,8 +43,14 @@ Onde | a | e | b | são os comprimentos da sequência uma e sequência b respect
 - Como parametro usaremos uma string com XXX caracteres para busca numa base com YYYY.
 
 ### Carga para teste de algoritmo
-- Testaremos cargas de trabalho com string de 5, 10, 20 caracteries 
+- Testaremos cargas de trabalho com string de 5, 10, 20 caracteres para busca numa base de 100 palavras. 
 
 ### Performance de metricas
 - Testaremos uma acuracia minima de 95%
 - Análise dos dados
+
+### Analise do algoritmos
+
+
+### Conclusões
+Neste documento foi exeplificado como a correspondência por aproximada de strings e determinar o quão semelhantes são. Os exemplos apresentados aqui podem ser simples, mas são suficientes para ilustrar como lidar com vários casos do que um computador pensa serem strings incompatíveis atraves da correspondência de string difusa para mapear correspondentes a pesquisa de um sistema de turismo para recomendação. No entanto, a utilidade desta técnica pode ser expandida, não há limites para usos da correspondência difusa.
