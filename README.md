@@ -28,7 +28,7 @@ Com base numa string de dados informada numa aplicação Python, desejamos compa
    - Matplotlib
 
 ## Instruções ao usuario
-É possivel implementar a formula de Levensntein o zero usando uma função Python, para usar basta chamar a função passando os parametros, exemplo:[Levensnteins.py]
+É possivel implementar a formula de Levensntein o zero usando uma função Python, para usar basta chamar a função passando os parametros, exemplo: [Levensnteins.py] (Levenshtein.py)
 
   
   ## Definição das métricas de desempenho
