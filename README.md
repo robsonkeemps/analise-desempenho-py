@@ -11,9 +11,7 @@ Aqui você encontrara uma abordagens de resolução usando algotimo de Levenshte
   - Carga para teste de algoritmo 
   - Performance de metricas
   - Análise de algoritmo
-   - Analise do numero de etapas
-   - Análise de nivel de acertividade
-   - Conclusões
+  - Conclusões
 - Autores
 
 ## Pré-requisitos
@@ -42,6 +40,11 @@ Isso pode ser feito usando a seguinte fórmula:
      (|a|+|b|)−leva,b(i,j)/|a|+|b)
      
 Onde | a | e | b | são os comprimentos da sequência uma e sequência b respectivamente.
+- Como parametro usaremos uma string com XXX caracteres para busca numa base com YYYY.
 
 ### Carga para teste de algoritmo
+- Testaremos cargas de trabalho com string de 5, 10, 20 caracteries 
 
+### Performance de metricas
+- Testaremos uma acuracia minima de 95%
+- Análise dos dados
