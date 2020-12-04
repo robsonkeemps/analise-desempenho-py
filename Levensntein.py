@@ -39,7 +39,7 @@ import numpy as np
         return "The strings are {} edits away".format(distance[row][col])
 
 
-   if __name__ == "__main__":
+------------------------------------------------------------------------------------------------
        Str1 = "Unisinos."
        Str2 = "unisinos"
        Distance = levenshtein_ratio_and_distance(Str1,Str2)
