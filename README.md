@@ -46,7 +46,7 @@ Onde | a | e | b | são os comprimentos da sequência uma e sequência b respect
 
 ### Carga para teste de algoritmo
 - Testaremos cargas de trabalho com string de 5, 10, 20 caracteres para busca numa base de 100 palavras. 
-Os arquivos usados no arquivo estarão armazenados no formato json conforme arquivo [base_dados.json](Base de dados)
+Os arquivos usados no arquivo estarão armazenados no formato json conforme arquivo [base_dados.json] (Base de dados)
 
 ### Performance de metricas
 - Testaremos uma acuracia minima de 95%
